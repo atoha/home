@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.956fad23.chunk.css",
+    "main.js": "/static/js/main.86d9eb11.chunk.js",
+    "main.js.map": "/static/js/main.86d9eb11.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.88408be9.chunk.js": "/static/js/2.88408be9.chunk.js",
+    "static/js/2.88408be9.chunk.js.map": "/static/js/2.88408be9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c3deafa92bd0d65dd3f55ac4f8ec4781.js": "/precache-manifest.c3deafa92bd0d65dd3f55ac4f8ec4781.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.88408be9.chunk.js.LICENSE.txt": "/static/js/2.88408be9.chunk.js.LICENSE.txt",
+    "static/media/bechtle.png": "/static/media/bechtle.b94c99f7.png",
+    "static/media/concardis.png": "/static/media/concardis.8078cb34.png",
+    "static/media/gufronato.png": "/static/media/gufronato.47808fa5.png",
+    "static/media/kisters.png": "/static/media/kisters.bc9ef478.png",
+    "static/media/nets.png": "/static/media/nets.9be43f15.png",
+    "static/media/resume.pdf": "/static/media/resume.9d3da0e2.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.88408be9.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.86d9eb11.chunk.js"
+  ]
+}
