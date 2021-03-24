@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Gufron Atokhojaev. Experienced Software Developer, Software Architect and Enterprise Architect with a demonstrated history of working in finance, logistic and energy industry. Skilled in Enterprise Development, Java, C++, C#, Python, PHP and JavaScript. Strong engineering professional with a Master Degree in Computer Science from University Bonn.",
-  resume: "https://drive.google.com/file/d/14YBB2nMKOAftlWH05-fCqD09XRrFGxpi/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/117MSOTQ5xdpFvGaetyr3eVBUqA9bx6qT/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -146,22 +146,22 @@ const experiences = {
   data: [
     {
       role: 'Enterprise Architect at Bechtle AG',// Here Add Company Name
-      companylogo: require('../assets/img/bechtle.png'),
+      companylogo: require('../assets/img/bechtle_s.png'),
       date: 'June 2020 – Present',
     },
     {
       role: 'Enterprise Architect at Nets Group',
-      companylogo: require('../assets/img/nets.png'),
+      companylogo: require('../assets/img/nets_s.png'),
       date: 'October 2019 – May 2020',
     },
     {
       role: 'Software Architect at Concardis GmbH',
-      companylogo: require('../assets/img/concardis.png'),
+      companylogo: require('../assets/img/concardis_s.png'),
       date: 'July 2016 – September 2019',
     },
     {
       role: 'Senior Software Developer at Kisters AG',
-      companylogo: require('../assets/img/kisters.png'),
+      companylogo: require('../assets/img/kisters_s.png'),
       date: 'July 2013 – June 2016',
     },
   ]

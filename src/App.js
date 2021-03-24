@@ -1,4 +1,5 @@
 import React from "react";
+import ReactGA from 'react-ga';
 import { BrowserRouter, Route } from "react-router-dom";
 import {
   navBar,
@@ -15,6 +16,7 @@ import AboutMe from "./components/home/AboutMe";
 import Project from "./components/home/Project";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
+import RouteChangeTracker  from "./components/RouteChangeTracker";
 import Skills from "./components/home/Skills";
 // import { Blog } from "./components/blog/Blog";
 // import BlogPost from "./components/blog/BlogPost";
@@ -22,6 +24,11 @@ import GetInTouch from "./components/home/GetInTouch.jsx";
 import Leadership from "./components/home/Leadership.jsx";
 
 import Experience from "./components/home/Experience";
+
+const TRACKING_ID = "UA-192765584-1"; // YOUR_OWN_TRACKING_ID
+ReactGA.initialize(TRACKING_ID);
+
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 const Home = React.forwardRef((props, ref) => {
   return (
