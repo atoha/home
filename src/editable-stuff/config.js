@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Gufron Atokhojaev. Experienced Software Developer, Software Architect and Enterprise Architect with a demonstrated history of working in finance, logistic and energy industry. Skilled in Enterprise Development, Java, C++, C#, Python, PHP and JavaScript. Strong engineering professional with a Master Degree in Computer Science from University Bonn.",
-  resume: "https://drive.google.com/file/d/117MSOTQ5xdpFvGaetyr3eVBUqA9bx6qT/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1lIX-_dKTbCPjiNo9X_J5wluGDfXX22vV/view?usp=sharing",
 };
 
 // PROJECTS SECTION
