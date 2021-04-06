@@ -8,7 +8,7 @@ const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
   firstName: "Gufron",
   middleName: "",
-  lastName: "Atokhojaev",
+  lastName: "A.",
   message: " Passionate about changing the world with technology. ",
   icons: [
     {
@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/gufronato.png"),
   imageSize: 375,
   message:
-    "My name is Gufron Atokhojaev. Experienced Software Developer, Software Architect and Enterprise Architect with a demonstrated history of working in finance, logistic and energy industry. Skilled in Enterprise Development, Java, C++, C#, Python, PHP and JavaScript. Strong engineering professional with a Master Degree in Computer Science from University Bonn.",
+    "My name is Gufron A. Experienced Software Developer, Software Architect and Enterprise Architect with a demonstrated history of working in finance, logistic and energy industry. Skilled in Enterprise Development, Java, C++, C#, Python, PHP and JavaScript. Strong engineering professional with a Master Degree in Computer Science from University Bonn.",
   resume: "https://drive.google.com/file/d/1lIX-_dKTbCPjiNo9X_J5wluGDfXX22vV/view?usp=sharing",
 };
 
