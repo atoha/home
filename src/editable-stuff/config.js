@@ -8,7 +8,7 @@ const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
   firstName: "Gufron",
   middleName: "",
-  lastName: "A.",
+  lastName: "Atto",
   message: " Passionate about changing the world with technology. ",
   icons: [
     {
@@ -17,19 +17,19 @@ const mainBody = {
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/gufronato/",
+      url: "https://www.facebook.com/gufronatto/",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/toha_gufron/",
+      url: "https://www.instagram.com/gufronatto/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/gatokhojaev/",
+      url: "https://www.linkedin.com/in/gufronatto/",
     },
     {
       image: "fa-twitter",
-      url: "https://twitter.com/gatokhojaev/",
+      url: "https://twitter.com/gufronatto/",
     },
   ],
 };
@@ -46,7 +46,7 @@ const mainBody = {
 //      i.e: profilePictureLink: "",
 // For Resume either provide link to your resume or import from "editable-stuff" directory
 //     i.e resume: require("../editable-stuff/resume.pdf"),
-//         resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+//         resume: "https://drive.google.com/file/d/14-ZGEo17H5cLHxgjjHeueVY_p1j-PGuV/view?usp=sharing",
 
 const about = {
   show: true,
@@ -54,8 +54,8 @@ const about = {
   imageLink: require("../editable-stuff/gufronato.png"),
   imageSize: 375,
   message:
-    "My name is Gufron A. Experienced Software Developer, Software Architect and Enterprise Architect with a demonstrated history of working in finance, logistic and energy industry. Skilled in Enterprise Development, Java, C++, C#, Python, PHP and JavaScript. Strong engineering professional with a Master Degree in Computer Science from University Bonn.",
-  resume: "https://drive.google.com/file/d/1lIX-_dKTbCPjiNo9X_J5wluGDfXX22vV/view?usp=sharing",
+    "My name is Gufron Atto Experienced Software Developer, Software Architect and Enterprise Architect with a demonstrated history of working in finance, logistic and energy industry. Skilled in Enterprise Development, Java, C++, C#, Python, PHP and JavaScript. Strong engineering professional with a Master Degree in Computer Science from University Bonn.",
+  resume: "https://drive.google.com/file/d/14-ZGEo17H5cLHxgjjHeueVY_p1j-PGuV/view?usp=sharing",
 };
 
 // PROJECTS SECTION
