@@ -54,8 +54,8 @@ const about = {
   imageLink: require("../editable-stuff/gufronato.png"),
   imageSize: 375,
   message:
-    "My name is Gufron Atto Experienced Software Developer, Software Architect and Enterprise Architect with a demonstrated history of working in finance, logistic and energy industry. Skilled in Enterprise Development, Java, C++, C#, Python, PHP and JavaScript. Strong engineering professional with a Master Degree in Computer Science from University Bonn.",
-  resume: "https://drive.google.com/file/d/14-ZGEo17H5cLHxgjjHeueVY_p1j-PGuV/view?usp=sharing",
+    "With almost 20 years of experience in software development and architecture, I am a passionate and versatile Principal Consultant at Bechtle, a leading IT service provider in Europe. I support our customers' technical needs, develop and implement their technology strategy, and introduce new technologies to maximize their output and productivity. I also supervise the company's cybersecurity, network, and data, and oversee the IT budget and quality assurance processes.",
+  resume: "https://drive.google.com/drive/folders/15FK89QbcBEL5PQMIqiRuG2-ZR3GU7IOG",
 };
 
 // PROJECTS SECTION
@@ -145,7 +145,17 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Enterprise Architect at Bechtle AG',// Here Add Company Name
+      role: 'Business Architect (BACOE)',// Here Add Company Name
+      companylogo: require('../assets/img/bechtle_s.png'),
+      date: 'May 2023 – Present',
+    },
+    {
+      role: 'Principal Consultant',
+      companylogo: require('../assets/img/bechtle_s.png'),
+      date: 'Oct 2022 – Present',
+    },
+    {
+      role: 'Enterprise Architect at Bechtle AG',
       companylogo: require('../assets/img/bechtle_s.png'),
       date: 'June 2020 – Present',
     },
